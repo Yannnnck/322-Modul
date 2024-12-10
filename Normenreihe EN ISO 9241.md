@@ -12,6 +12,9 @@ Ein System ist aufgabenangemessen, wenn es den Benutzer effizient und effektiv b
 **Schlechte Beispiele:**
 - Eine komplexe Steuererklärungssoftware mit unnötigen Zwischenschritten.
 
+![alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREn69u5oLpnaPhBsQwOJ8fYXP_8rVe8zHruQ&s)
+
+
 ---
 
 ### 2. Selbstbeschreibungsfähigkeit
@@ -23,6 +26,8 @@ Ein Dialog ist selbstbeschreibungsfähig, wenn der Benutzer zu jedem Zeitpunkt w
 
 **Schlechte Beispiele:**
 - Anwendungen ohne klare Fehlermeldungen oder Statusanzeigen.
+
+![alt](https://wiki.infowiss.net/images-infowisswiki/3/39/DIN_ISO_9241-10_01.jpg)
 
 ---
 
@@ -36,6 +41,9 @@ Der Benutzer muss jederzeit die Kontrolle über den Dialog behalten können.
 **Schlechte Beispiele:**
 - Unabbrechbare Installationsprozesse.
 
+![alt]()
+
+
 ---
 
 ### 4. Erwartungskonformität
@@ -47,6 +55,9 @@ Ein System erfüllt die Erwartungskonformität, wenn es den Erwartungen des Benu
 
 **Schlechte Beispiele:**
 - Inkonsistente Menüanordnungen oder Funktionen, die anders arbeiten als erwartet.
+
+![alt]()
+
 
 ---
 
@@ -60,6 +71,9 @@ Ein System ist fehlertolerant, wenn es auch bei fehlerhaften Eingaben korrekte o
 **Schlechte Beispiele:**
 - Anwendungen, die bei Eingabefehlern abstürzen.
 
+![alt]()
+
+
 ---
 
 ### 6. Individualisierbarkeit
@@ -71,6 +85,9 @@ Der Benutzer sollte das System an seine Bedürfnisse anpassen können.
 
 **Schlechte Beispiele:**
 - Systeme ohne Einstellungsoptionen für Barrierefreiheit.
+
+![alt]()
+
 
 ---
 
@@ -84,9 +101,10 @@ Ein System ist lernförderlich, wenn es den Benutzer durch klare und konsistente
 **Schlechte Beispiele:**
 - Systeme ohne Anleitungen oder mit einer überladenen Benutzeroberfläche.
 
+![alt]()
+
+
 ---
 
 ## Schlusszitat
 „Die Technik soll dem Menschen dienen und nicht der Mensch der Technik!“
-
-![alt text](https://teams.microsoft.com/l/message/19:0cd27b22-9064-4815-af76-d10a12f0df82_492030ee-71f7-47d0-9f09-e681520ef7b6@unq.gbl.spaces/1733825661505?context=%7B%22contextType%22%3A%22chat%22%7D)
