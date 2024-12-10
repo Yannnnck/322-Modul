@@ -89,4 +89,4 @@ Ein System ist lernförderlich, wenn es den Benutzer durch klare und konsistente
 ## Schlusszitat
 „Die Technik soll dem Menschen dienen und nicht der Mensch der Technik!“
 
-![](https://teams.microsoft.com/l/message/19:0cd27b22-9064-4815-af76-d10a12f0df82_492030ee-71f7-47d0-9f09-e681520ef7b6@unq.gbl.spaces/1733825661505?context=%7B%22contextType%22%3A%22chat%22%7D)
+![alt text](https://teams.microsoft.com/l/message/19:0cd27b22-9064-4815-af76-d10a12f0df82_492030ee-71f7-47d0-9f09-e681520ef7b6@unq.gbl.spaces/1733825661505?context=%7B%22contextType%22%3A%22chat%22%7D)
