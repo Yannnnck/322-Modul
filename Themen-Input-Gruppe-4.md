@@ -1,4 +1,5 @@
 # Gruppe 4: Benutzerfreundlichkeit / Testen
+Von: Yannick, Tunahan, Felipe
 
 ## Prototype (Clickable)
 Ein klickbarer Prototyp ist eine interaktive Version einer Anwendung oder Webseite, die es ermöglicht, Funktionalitäten, Navigationsabläufe und Benutzererfahrung zu testen, bevor die Entwicklung abgeschlossen ist. Dies dient als Grundlage für Benutzerfreundlichkeitstests und die iterative Verbesserung des Designs.
