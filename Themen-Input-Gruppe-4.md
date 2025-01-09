@@ -42,6 +42,3 @@ Benutzerfreundlichkeit umfasst auch den Zugang für alle Nutzer, einschließlich
 - **Farbschema-Tests:** Überprüfen Sie den Kontrast und die Lesbarkeit (z. B. mit Tools wie Contrast Checker).
 - **Keyboard-Navigation:** Sicherstellen, dass alle Funktionen mit der Tastatur bedienbar sind.
 - **Automatisierte Tools:** Verwendung von Accessibility-Test-Tools wie Axe oder Lighthouse zur schnellen Überprüfung.
-
-## Zusammenfassung
-Benutzerfreundlichkeit und Barrierefreiheit sind zentrale Bestandteile der Software-Entwicklung. Durch den Einsatz von Methoden wie SUS und HEART sowie die Einhaltung von Standards wie WCAG und WAI-ARIA können sowohl Nutzererfahrung als auch Zugänglichkeit optimiert werden. Tests mit Tools wie Screen-Readern und automatisierten Prüfwerkzeugen bieten praktische Ansätze zur kontinuierlichen Verbesserung.
